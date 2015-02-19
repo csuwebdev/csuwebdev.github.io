@@ -10,6 +10,12 @@ collections:
   events:
     output: true
     permalink: /events/:path/
+  meetings:
+    output: true
+    permalink: /meetings/:path/
+  quizzes:
+    output: true
+    permalink: /quizzes/:path/
 
 # Build settings
 markdown: kramdown
