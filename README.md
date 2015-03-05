@@ -17,11 +17,11 @@ The site includes the SASS version of Twitter Bootstrap. The _sass directory con
 
 ## How to Contribute
 
-1. Fork this repository.
-2. Make some changes. Keep your commits small.
-3. Submit a pull request.
-
-You can avoid triggering a new build for small changes, such as editing the README by adding [ci skip] or [skip ci] to your commit message.
+1. Fork it ( https://github.com/csuwebdev/csuwebdev.github.io/fork )
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create a new Pull Request
 
 For information about the Markdown syntax, refer to [this](http://kramdown.gettalong.org/syntax.html).
 
