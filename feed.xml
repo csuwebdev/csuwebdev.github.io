@@ -6,9 +6,80 @@
 </description>
     <link>https://csuwebdev.github.io//</link>
     <atom:link href="https://csuwebdev.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Mar 2015 04:46:59 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2015 04:46:59 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2015 06:32:34 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2015 06:32:34 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Setting up an Efficient Workflow</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.google.com/calendar/event?action=TEMPLATE&amp;amp;tmeid=dWpkZTMzbTltNDAxNGFkNzhxZmo0MWRvMjggcmE1Njk1b2w1anRyMWhkYWlvMTg1NWpsbThAZw&amp;amp;tmsrc=ra5695ol5jtr1hdaio1855jlm8%40group.calendar.google.com&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https://www.google.com/calendar/images/ext/gc_button1_en.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mark it on your calendars. This is a good one meant for those who want to build personal or professional websites. We will go over very useful information and tools such as gulp, bower, bootstrap, and sublime text which will increase the quality and speed of your web development regardless of language or tools. Perfect for beginners and advanced alike!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Mar 2015 00:00:00 +0000</pubDate>
+        <link>https://csuwebdev.github.io//events/2015/03/17/event-on-saturday-3-7-15.html</link>
+        <guid isPermaLink="true">https://csuwebdev.github.io//events/2015/03/17/event-on-saturday-3-7-15.html</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Meeting Friday 3/6/15</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.google.com/calendar/event?action=TEMPLATE&amp;amp;tmeid=ZnE1c3ZsaG1jc2dtcGxyYzRnYmVzaTFjYzQgcmE1Njk1b2w1anRyMWhkYWlvMTg1NWpsbThAZw&amp;amp;tmsrc=ra5695ol5jtr1hdaio1855jlm8%40group.calendar.google.com&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https://www.google.com/calendar/images/ext/gc_button1_en.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We will talk about git, open source, and how to fork, push, and pull request a git repository. This will go over some “must know” information if you ever do open source, and it is likely as an interview question! Very useful and please show up if you are a member!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
+        <link>https://csuwebdev.github.io//meetings/2015/03/06/meeting-friday-3-6-15.html</link>
+        <guid isPermaLink="true">https://csuwebdev.github.io//meetings/2015/03/06/meeting-friday-3-6-15.html</guid>
+        
+        
+        <category>meetings</category>
+        
+      </item>
+    
+      <item>
+        <title>Get ready to get your web on.</title>
+        <description>&lt;h2 id=&quot;meeting-friday-3615-12-1pm&quot;&gt;Meeting Friday 3/6/15 12-1pm&lt;/h2&gt;
+
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.google.com/calendar/event?action=TEMPLATE&amp;amp;tmeid=ZnE1c3ZsaG1jc2dtcGxyYzRnYmVzaTFjYzQgcmE1Njk1b2w1anRyMWhkYWlvMTg1NWpsbThAZw&amp;amp;tmsrc=ra5695ol5jtr1hdaio1855jlm8%40group.calendar.google.com&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https://www.google.com/calendar/images/ext/gc_button1_en.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We will talk about git, open source, and how to fork, push, and pull request a git repository. This will go over some “must know” information if you ever do open source, and it is likely as an interview question! Very useful and please show up if you are a member!&lt;/p&gt;
+
+&lt;h2 id=&quot;event-on-saturday-3715-12-2pm-on-setting-up-an-efficient-workflow&quot;&gt;Event on Saturday 3/7/15 12-2pm on “Setting up an efficient Workflow”&lt;/h2&gt;
+
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.google.com/calendar/event?action=TEMPLATE&amp;amp;tmeid=dWpkZTMzbTltNDAxNGFkNzhxZmo0MWRvMjggcmE1Njk1b2w1anRyMWhkYWlvMTg1NWpsbThAZw&amp;amp;tmsrc=ra5695ol5jtr1hdaio1855jlm8%40group.calendar.google.com&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;https://www.google.com/calendar/images/ext/gc_button1_en.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mark it on your calendars. This is a good one meant for those who want to build personal or professional websites. We will go over very useful information and tools such as gulp, bower, bootstrap, and sublime text which will increase the quality and speed of your web development regardless of language or tools. Perfect for beginners and advanced alike!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-aws-setup-and-upe-game-night--lan-party-were-awesome&quot;&gt;The AWS setup and UPE Game Night / Lan party were awesome&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;We had probably ~20 people at the AWS event last Saturday and it was great! Everyone was able to get a web server running through AWS! Maybe we can start an aggregate list of member websites!&lt;/li&gt;
+  &lt;li&gt;At the Lan Party last night put on by UPE, Web, and ACM club there were ~50 people! There was super smash brothers, halo, and tons of board games and pizza.&lt;/li&gt;
+  &lt;li&gt;If you weren’t able to make it those (or you were) be sure to check out the next event and meeting!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;development-video-of-the-week&quot;&gt;Development video of the week&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html&quot;&gt;Up and Running with Angular JS&lt;/a&gt; - If you wonder what all the loud noise about angularJS is. Well maybe here is a good place to start!&lt;/p&gt;
+
+&lt;h2 id=&quot;design-video-of-the-week&quot;&gt;Design video of the week&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html&quot;&gt;Responsive single page layouts with bootstrap&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Don’t forget to give Jayd your 10$ for membership if you haven’t!&lt;/p&gt;
+
+&lt;p&gt;Have a great weekend!&lt;br /&gt;
+- Erik&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
+        <link>https://csuwebdev.github.io//blog/2015/02/28/get-ready-to-get-your-web-on-.html</link>
+        <guid isPermaLink="true">https://csuwebdev.github.io//blog/2015/02/28/get-ready-to-get-your-web-on-.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Meeting 1 Recap</title>
@@ -37,7 +108,7 @@
 
 &lt;p&gt;Don’t forget to pay 10$ to Jayd for membership!&lt;/p&gt;
 
-&lt;p&gt;Have a great weekend everyone!
+&lt;p&gt;Have a great weekend everyone!&lt;br /&gt;
 - Erik&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Feb 2015 12:00:00 +0000</pubDate>
