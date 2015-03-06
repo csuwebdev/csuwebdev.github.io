@@ -1,18 +1,23 @@
+- name : Erik Mellum
+  title: President
+  github_username: erikmellum
+  website: http://www.recipestacker.com
+
 - name : Mason Wiley
   title: Lead Web Developer
   github_username: mwiley
   website: http://mwiley.me/
 
-- name : Erik Mellum
-  title: President
-  github_username: erikmellum
-  website: http://www.recipestacker.com
+- name: Jayd Saucedo
+  title: Treasurer
+  github_username: saurdo
+  website: http://jayd.sauce.do
 
 - name : Bryce Sampson
   title: Member
   github_username: TheLikenessOfRice
 
 - name : Michael Tostenson
-  title: programmer.exe
+  title: Member
   github_username: mt523
   website: http://linkedin.com/in/mt523
