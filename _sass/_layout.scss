@@ -41,7 +41,7 @@
 
     background-color: $secondary-color;
     padding: 10px 20px;
-    @include border-radius(20px);
+    @include border-radius(5px);
 
     &:hover {
       box-shadow: 2px 2px 2px #000;
