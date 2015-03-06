@@ -6,8 +6,8 @@
 </description>
     <link>http://csuwebdev.com//</link>
     <atom:link href="http://csuwebdev.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Mar 2015 21:58:34 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2015 21:58:34 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2015 22:25:41 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2015 22:25:41 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -22,6 +22,35 @@
         
         
         <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Pull Requests are In!</title>
+        <description>&lt;h2 id=&quot;check-out-your-name-on-the-club-website-if-you-put-your-pull-request-in&quot;&gt;Check out your name on the club website if you put your pull request in!&lt;/h2&gt;
+
+&lt;p&gt;Today at the meeting we learned how to do pull requests, and the end result is that people put their names into the members section of the website! If you weren’t able to attend, you can follow the instructions on: &lt;a href=&quot;https://github.com/csuwebdev/csuwebdev.github.io&quot;&gt;https://github.com/csuwebdev/csuwebdev.github.io&lt;/a&gt; for how to set up and configure a fork for pull requests.&lt;/p&gt;
+
+&lt;p&gt;The process to add your name to the club site for those who weren’t able to make it is as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fork the repo&lt;/li&gt;
+  &lt;li&gt;Clone the repo from your github account&lt;/li&gt;
+  &lt;li&gt;Set the upstream&lt;/li&gt;
+  &lt;li&gt;Edit the _data/members.yml file to include your name&lt;/li&gt;
+  &lt;li&gt;Add, commit, and push the change to your local repo&lt;/li&gt;
+  &lt;li&gt;Put a pull request in, your name will be added!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We hope to see your name added to the website soon!&lt;br /&gt;
+-Erik&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
+        <link>http://csuwebdev.com//blog/2015/03/06/pull-requests-are-in.html</link>
+        <guid isPermaLink="true">http://csuwebdev.com//blog/2015/03/06/pull-requests-are-in.html</guid>
+        
+        
+        <category>blog</category>
         
       </item>
     
