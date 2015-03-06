@@ -6,7 +6,7 @@ This site is generated with [Jekyll](http://jekyllrb.com/) and uses [Travis CI](
 
 ### Posts and Collections
 
-To add new content with Jekyll, you create a new file in one of the collections folders (_posts, _events, _meetings, and _quizzes). Content can be written in markdown or HTML. You can generate a new post in the _posts folder by typing
+To add new content with Jekyll, you create a new file in the _posts folder. Content can be written in markdown or HTML. You can generate a new post by typing
 
 ````
 $ rake new title="post title"

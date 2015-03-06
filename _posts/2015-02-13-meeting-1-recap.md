@@ -24,5 +24,5 @@ Join [Orgsync](https://orgsync.com/76262/groups)
 
 Don't forget to pay 10$ to Jayd for membership!
 
-Have a great weekend everyone!
+Have a great weekend everyone!  
 - Erik
