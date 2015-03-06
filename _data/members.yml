@@ -1,9 +1,18 @@
 - name : Mason Wiley
   title: Lead Web Developer
   github_username: mwiley
+<<<<<<< HEAD
   website: http://mwiley.mc/
 
 - name : Bryce Sampson
   title: Member
   github_username: TheLikenessOfRice
   website: In Progress
+=======
+  website: http://mwiley.me/
+  
+- name : Erik Mellum
+  title: President
+  github_username: erikmellum
+  website: http://www.recipestacker.com
+>>>>>>> upstream/jekyll
