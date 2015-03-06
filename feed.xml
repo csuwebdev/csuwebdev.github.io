@@ -4,10 +4,10 @@
     <title>Chico State Web Dev and Design Club</title>
     <description>Become a better web developer, network with others, build teamwork.
 </description>
-    <link>http://csuwebdev.com//</link>
-    <atom:link href="http://csuwebdev.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Mar 2015 20:03:15 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2015 20:03:15 +0000</lastBuildDate>
+    <link>https://csuwebdev.github.io//</link>
+    <atom:link href="https://csuwebdev.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 06 Mar 2015 20:06:07 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2015 20:06:07 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;Mark it on your calendars. This is a good one meant for those who want to build personal or professional websites. We will go over very useful information and tools such as gulp, bower, bootstrap, and sublime text which will increase the quality and speed of your web development regardless of language or tools. Perfect for beginners and advanced alike!&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Mar 2015 00:00:00 +0000</pubDate>
-        <link>http://csuwebdev.com//events/2015/03/17/event-on-saturday-3-7-15.html</link>
-        <guid isPermaLink="true">http://csuwebdev.com//events/2015/03/17/event-on-saturday-3-7-15.html</guid>
+        <link>https://csuwebdev.github.io//events/2015/03/17/event-on-saturday-3-7-15.html</link>
+        <guid isPermaLink="true">https://csuwebdev.github.io//events/2015/03/17/event-on-saturday-3-7-15.html</guid>
         
         
         <category>events</category>
@@ -34,8 +34,8 @@
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1HipnIQfX5hvaAqfFPUfVH75abjux1tg5GtZ4hZXAqp8/edit?usp=sharing&quot;&gt;Slideshow&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
-        <link>http://csuwebdev.com//meetings/2015/03/06/meeting-friday-3-6-15.html</link>
-        <guid isPermaLink="true">http://csuwebdev.com//meetings/2015/03/06/meeting-friday-3-6-15.html</guid>
+        <link>https://csuwebdev.github.io//meetings/2015/03/06/meeting-friday-3-6-15.html</link>
+        <guid isPermaLink="true">https://csuwebdev.github.io//meetings/2015/03/06/meeting-friday-3-6-15.html</guid>
         
         
         <category>meetings</category>
@@ -75,8 +75,8 @@
 - Erik&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
-        <link>http://csuwebdev.com//blog/2015/02/28/get-ready-to-get-your-web-on-.html</link>
-        <guid isPermaLink="true">http://csuwebdev.com//blog/2015/02/28/get-ready-to-get-your-web-on-.html</guid>
+        <link>https://csuwebdev.github.io//blog/2015/02/28/get-ready-to-get-your-web-on-.html</link>
+        <guid isPermaLink="true">https://csuwebdev.github.io//blog/2015/02/28/get-ready-to-get-your-web-on-.html</guid>
         
         
         <category>blog</category>
@@ -114,8 +114,8 @@
 - Erik&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Feb 2015 12:00:00 +0000</pubDate>
-        <link>http://csuwebdev.com//meetings/2015/02/13/meeting-1-recap.html</link>
-        <guid isPermaLink="true">http://csuwebdev.com//meetings/2015/02/13/meeting-1-recap.html</guid>
+        <link>https://csuwebdev.github.io//meetings/2015/02/13/meeting-1-recap.html</link>
+        <guid isPermaLink="true">https://csuwebdev.github.io//meetings/2015/02/13/meeting-1-recap.html</guid>
         
         
         <category>meetings</category>
