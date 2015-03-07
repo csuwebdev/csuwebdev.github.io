@@ -36,6 +36,13 @@ Rake::Jekyll::GitDeployTask.new(:deploy) do |t|
   # Run this command to build the site.
   t.jekyll_build = ->(dest_dir) {
     Rake.sh "bundle exec jekyll build --destination #{dest_dir}"
-    HTML::Proofer.new(dest_dir).run
+    HTML::Proofer.new(dest_dir, {
+      :href_ignore => [
+        "#"
+      ],
+      :alt_ignore => [
+        /gc_button1_en/
+      ]
+    }).run
   }
 end
