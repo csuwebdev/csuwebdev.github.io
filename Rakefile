@@ -42,7 +42,8 @@ Rake::Jekyll::GitDeployTask.new(:deploy) do |t|
       ],
       :alt_ignore => [
         /gc_button1_en/
-      ]
+      ],
+      :only_4xx=> true
     }).run
   }
 end
