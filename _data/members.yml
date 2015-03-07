@@ -1,38 +1,43 @@
 - name : Erik Mellum
-  title: President
-  github_username: erikmellum
-  website: http://www.recipestacker.com
+title: President
+github_username: erikmellum
+website: http://www.recipestacker.com
 
 - name : Mason Wiley
-  title: Lead Web Developer
-  github_username: mwiley
-  website: http://mwiley.me
+title: Lead Web Developer
+github_username: mwiley
+website: http://mwiley.me
 
 - name: Jayd Saucedo
-  title: Treasurer
-  github_username: saurdo
-  website: http://jayd.sauce.do
+title: Treasurer
+github_username: saurdo
+website: http://jayd.sauce.do
 
 - name : Bryce Sampson
-  title: Member
-  github_username: TheLikenessOfRice
+title: Member
+github_username: TheLikenessOfRice
 
 - name : Michael Tostenson
-  title: Member
-  github_username: mt523
-  website: http://linkedin.com/in/mt523
+title: Member
+github_username: mt523
+website: http://linkedin.com/in/mt523
 
 - name : Chris Maul
-  title: Member
-  github_username: cmaul85
-  website: http://www.feelthecode.com
+title: Member
+github_username: cmaul85
+website: http://www.feelthecode.com
 
 - name : Sam Whitsett
-  title: member
-  github_username: swhitsett
-  website: http://mrsammyw.com/
+title: member
+github_username: swhitsett
+website: http://mrsammyw.com/
 
 - name : Oliver Wong
-  title: Member
-  github_username: oliverreedwong
-  website: http://oliverreedwong.com
+title: Member
+github_username: oliverreedwong
+website: http://oliverreedwong.com
+
+- name: Humberto Hernandez
+title: Member
+github_username: Chumbeto
+website: http://betohernandez.com
