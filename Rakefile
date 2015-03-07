@@ -1,5 +1,6 @@
 require 'time'
 require 'rake-jekyll'
+require 'html/proofer'
 
 desc 'create  a new draft post'
 task :new do
@@ -30,5 +31,11 @@ end
 
 
 Rake::Jekyll::GitDeployTask.new(:deploy) do |t|
-   t.deploy_branch = 'master'
+  t.deploy_branch = 'master'
+
+  # Run this command to build the site.
+  t.jekyll_build = ->(dest_dir) {
+    Rake.sh "bundle exec jekyll build --destination #{dest_dir}"
+    HTML::Proofer.new(dest_dir).run
+  }
 end
