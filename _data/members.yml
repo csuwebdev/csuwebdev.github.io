@@ -28,7 +28,7 @@
   website: http://www.feelthecode.com
 
 - name : Sam Whitsett
-  title: member
+  title: Member
   github_username: swhitsett
   website: http://mrsammyw.com/
 
@@ -36,3 +36,8 @@
   title: Member
   github_username: oliverreedwong
   website: http://oliverreedwong.com
+  
+- name: Humberto Hernandez
+  title: Member
+  github_username: Chumbeto
+  website: http://betohernandez.com
