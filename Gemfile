@@ -11,10 +11,12 @@ gem 'rake'
 gem 'rake-jekyll'
 gem 'html-proofer'
 
-group :rails_assets do
-  gem 'rails-assets-jquery'
-  gem 'rails-assets-moment'
-  gem 'rails-assets-fullcalendar'
+source 'https://rails-assets.org' do
+  group :rails_assets do
+    gem 'rails-assets-jquery'
+    gem 'rails-assets-moment'
+    gem 'rails-assets-fullcalendar'
+  end
 end
 
 gem 'wdm', '~> 0.1.0' if Gem.win_platform?
