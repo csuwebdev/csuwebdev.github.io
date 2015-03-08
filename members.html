@@ -15,13 +15,13 @@ permalink: /members/
             <a href="https://github.com/{{ member.github_username }}">
               <span class="icon icon--github">
                 <svg viewBox="0 0 16 16">
-                  <path fill="#828282" d="{{ site.data.github_logo.svg }}"/>
+                  <path fill="#828282" d="{{ site.data.svg_icons.github }}"/>
                 </svg>
               </span>
               <span class="username">{{ site.github_username }}</span>
               GitHub
             </a>
-          {% endif %}
+        {% endif %}
       </td>
       <td>
         {% if member.website %}
