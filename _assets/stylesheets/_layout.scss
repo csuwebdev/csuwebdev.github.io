@@ -2,19 +2,18 @@
  * Site header
  */
 .site-header {
-  @extend .jumbotron;
   padding: 25px 100px;
   background-color: $primary-color-dark;
+  border-top: 5px solid $secondary-color-2;
+  border-bottom: 5px solid $secondary-color-2-light;
 }
 .site-title {
   font-family: 'Share Tech Mono',;
-  font-size: 52px;
+  font-size: 38px;
   text-shadow: 3px 3px 3px #000;
-  line-height: 52px;
-  margin-bottom: 20px;
+  line-height: 48px;
   float: left;
-  width: 350px;
-  padding: 10px 15px;
+  width: 250px;
   &,
   &:visited {
     color: $secondary-color-2;
@@ -34,13 +33,15 @@
   .page-link {
     color: $grey-color-light;
     line-height: $base-line-height;
+    font-weight: bold;
+
     // Gaps between nav items, but not on the first one
     &:not(:first-child) {
-      margin-left: 20px;
+      margin-left: 2px;
     }
 
     background-color: $secondary-color;
-    padding: 10px 20px;
+    padding: 10px 12px;
     @include border-radius(5px);
 
     &:hover {
@@ -48,6 +49,7 @@
       text-decoration: none;
     }
   }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
@@ -86,6 +88,7 @@
       background-color: #fff;
     }
   }
+
 }
 /**
  * Site footer

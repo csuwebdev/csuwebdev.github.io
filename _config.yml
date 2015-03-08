@@ -14,3 +14,4 @@ exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'Rakefile']
 assets:
   js_compressor:  uglifier
   css_compressor: sass
+  debug: true
