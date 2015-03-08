@@ -11,9 +11,9 @@ To add new content with Jekyll, you create a new file in the _posts folder. Cont
 ````
 $ rake new title="post title"
 ````
-### SASS
+### Assets
 
-The site includes the SASS version of Twitter Bootstrap. The _sass directory contains most of the files. They are imported by css/main.scss. This file will be compiled to CSS when the site is build.
+The site's assets (CoffeeScript/JavaScript and SASS/CSS) are in the _assets directory. For more information on how this works, refer [here](https://github.com/ixti/jekyll-assets).
 
 ## How to Contribute
 We use the [fork & pull model](https://help.github.com/articles/using-pull-requests#fork--pull) to accept new code into the project. If you aren't familiar with that workflow, Github's [Using Pull Requests](https://help.github.com/articles/using-pull-requests) article is a great primer.
