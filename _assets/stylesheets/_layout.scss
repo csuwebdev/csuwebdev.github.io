@@ -177,6 +177,28 @@
 }
 
 /**
+* Calendar
+*/
+.fc-day-grid-event {
+  background-color: $secondary-color-2;
+  height: 35px;
+  border: none;
+  padding: 2px;
+  &:hover {
+    z-index: 999999;
+    box-shadow: 2px 2px 2px $grey-color-light;
+    height: 40px;
+    width: 200px;
+  }
+  &, &:hover, &:visited {
+    color: #fff;
+  }
+}
+.fc-day-grid-event .fc-content {
+  white-space: normal;
+}
+
+/**
  * Posts
  */
 .post-header {
