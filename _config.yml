@@ -9,3 +9,8 @@ url: "http://csuwebdev.com/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'Rakefile']
+
+# jekyll-assets settings
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass

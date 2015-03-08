@@ -1,6 +1,3 @@
----
-
----
 pageCache               = {}
 cacheSize               = 10
 transitionCacheEnabled  = false
