@@ -128,7 +128,7 @@
   }
 }
 .tutorials > .post-list > li {
-  margin-bottom: 0;
+  margin-bottom: 20px;
 }
 .post-meta {
   font-size: $small-font-size;
@@ -189,7 +189,6 @@
   }
 }
 .post-content {
-  margin-bottom: $spacing-unit;
   h2 {
     font-size: 32px;
     @include media-query($on-laptop) {
@@ -216,10 +215,6 @@
 /**
 *  Events
 */
-.event > .post-content {
-  word-wrap: break-word;
-  width: 35em;
-}
 .event-date {
   padding: 6px 12px;
   font-size: 14px;

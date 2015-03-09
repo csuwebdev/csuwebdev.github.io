@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: post
 title: Tutorials
 permalink: /tutorials/
 ---
@@ -10,10 +10,10 @@ permalink: /tutorials/
         <h1>{{ category.title }}</h1>
         <ul class="post-list">
           {% for tutorial in category.tutorials %}
-            <h2>
-              <li><a class="post-link" href="{{ tutorial.url }}">{{ tutorial.title }}</a></li>
-            </h2>
-            <span class="post-content">{{ tutorial.description }}</span>
+            <li>
+              <h2><a class="post-link" href="{{ tutorial.url }}">{{ tutorial.title }}</a></h2>
+              <span class="post-content">{{ tutorial.description }}</span>
+            </li>
           {% endfor %}
         </ul>
     {% endfor %}
