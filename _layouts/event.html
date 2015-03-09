@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div class="event">
+
+  <header class="post-header">
+    <p class="event-date">{{ page.date | date: "%b %-d, %Y" }}</p>
+
+    {% if page.calendar-link %}
+      <a target="_blank" href="{{ page.calendar-link }}">
+        <div class="button">
+          <i class="calendar-icon" aria-hidden="true"></i>
+          Add to Google Calendar
+        </div>
+      </a>
+    {% endif %}
+
+    {% if page.slideshow-link %}
+      <a target="_blank" href="{{ page.slideshow-link }}">
+        <div class="button">
+          <i class="slideshow-icon" aria-hidden="true"></i>
+          Slideshow
+        </div>
+      </a>
+    {% endif %}
+  </header>
+
+  <h1 class="post-title">{{ page.title }}</h1>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
