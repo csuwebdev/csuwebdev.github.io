@@ -6,12 +6,13 @@ gem 'jekyll-assets'
 gem 'uglifier'
 
 gem 'bootstrap-sass'
+gem 'font-awesome-sass'
 
 gem 'rake'
 gem 'rake-jekyll'
 gem 'html-proofer'
 
-source 'https://rails-assets.org' do
+source 'http://rails-assets.org' do
   group :rails_assets do
     gem 'rails-assets-jquery'
     gem 'rails-assets-moment'
@@ -19,4 +20,4 @@ source 'https://rails-assets.org' do
   end
 end
 
-gem 'wdm', '~> 0.1.0' if Gem.win_platform?
+gem 'wdm'  if Gem.win_platform?

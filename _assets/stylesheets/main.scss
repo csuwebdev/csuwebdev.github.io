@@ -1,11 +1,11 @@
 @charset "utf-8";
 @import url(//fonts.googleapis.com/css?family=Share+Tech+Mono|Merriweather);
-
+@icon-font-path "/assets/fonts";
 // Our variables
 $base-font-family: 'Merriweather', serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.6;
 $spacing-unit:     30px;
 
 //color definitions
@@ -20,13 +20,11 @@ $grey-color-dark:  darken($grey-color, 25%);
 $primary-color:           #B52626;
 $primary-color-dark:      darken($primary-color, 20%);
 $secondary-color:         #2B7E7E;
+$secondary-color-dark:    darken($secondary-color, 20%);
 $secondary-color-2:       #99C542;
 $secondary-color-2-light: lighten($secondary-color-2, 30%);
 
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
+$on-palm:          685px;
 $on-laptop:        800px;
 
 // Using media queries with like this:
@@ -44,6 +42,7 @@ $on-laptop:        800px;
 
 @import
         "bootstrap",
+        "font-awesome",
         "fullcalendar",
         "base",
         "layout",
