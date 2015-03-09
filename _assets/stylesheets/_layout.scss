@@ -33,18 +33,8 @@
     display: none;
   }
   .page-link {
-    color: $grey-color-light;
-    background-color: $secondary-color;
-    padding: 10px 12px;
-    @include border-radius(5px);
-
-    line-height: $base-line-height;
+    @extend .button;
     font-weight: bold;
-
-    &:hover {
-      box-shadow: 2px 2px 2px #000;
-      text-decoration: none;
-    }
 
     // Gaps between nav items, but not on the first one
     &:not(:first-child) {
@@ -161,17 +151,23 @@
 * Calendar
 */
 .fc-day-grid-event {
+  @extend .button;
   background-color: $secondary-color-2;
   box-shadow: 2px 2px 2px $grey-color-light;
-  height: 35px;
   border: none;
   padding: 2px;
   &, &:hover, &:visited {
     color: #fff;
   }
+  &:hover {
+    background-color: $secondary-color-2-dark;
+  }
 }
 .fc-day-grid-event .fc-content {
   white-space: normal;
+}
+.fc-button {
+  background-image: none;
 }
 
 /**

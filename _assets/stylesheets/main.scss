@@ -20,9 +20,10 @@ $grey-color-dark:  darken($grey-color, 25%);
 $primary-color:           #B52626;
 $primary-color-dark:      darken($primary-color, 20%);
 $secondary-color:         #2B7E7E;
-$secondary-color-dark:    darken($secondary-color, 20%);
+$secondary-color-dark:    darken($secondary-color, 10%);
 $secondary-color-2:       #99C542;
 $secondary-color-2-light: lighten($secondary-color-2, 30%);
+$secondary-color-2-dark:  darken($secondary-color-2, 10%);
 
 $on-palm:          685px;
 $on-laptop:        800px;
@@ -35,16 +36,16 @@ $on-laptop:        800px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+  @media screen and (max-width: $device) {
+    @content;
+  }
 }
 
 @import
-        "bootstrap",
-        "font-awesome",
-        "fullcalendar",
-        "base",
-        "layout",
-        "syntax-highlighting"
+  "bootstrap",
+  "font-awesome",
+  "fullcalendar",
+  "base",
+  "layout",
+  "syntax-highlighting"
 ;
