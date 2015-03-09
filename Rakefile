@@ -39,6 +39,7 @@ Rake::Jekyll::GitDeployTask.new(:deploy) do |t|
     HTML::Proofer.new(dest_dir, {
       :href_ignore => [
         "#"
+        "/tutorials"
       ],
       :alt_ignore => [
         /gc_button1_en/
