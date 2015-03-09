@@ -168,6 +168,9 @@
     margin-bottom: $spacing-unit;
   }
 }
+.tutorials > .post-list > li {
+  margin-bottom: 0;
+}
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
@@ -175,6 +178,9 @@
 .post-link {
   display: block;
   font-size: 24px;
+}
+.post-description {
+  font-size: $small-font-size;
 }
 
 /**
