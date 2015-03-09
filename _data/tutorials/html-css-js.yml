@@ -1,0 +1,9 @@
+title: HTML, CSS, and JavaScript
+tutorials:
+  - title: HTML Dog
+    description: Beginner, intermediate, and advanced tutorials for HTML, CSS, and JavaScript. This is a great place to start for beginners. It also has some good guides for more advanced topics.
+    url: http://htmldog.com/guides/html/
+
+  - title: w3schools.com
+    description: This site has a lot of guides on HTML, CSS, and JS as well. It's another good place for beginners to start, and a good reference if you can't remember how something works.
+    url: http://www.w3schools.com/
