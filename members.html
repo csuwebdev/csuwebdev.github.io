@@ -18,12 +18,12 @@ permalink: /members/
                   <path fill="#828282" d="{{ site.data.svg_icons.github }}"/>
                 </svg>
               </span>
-              <span class="username">{{ site.github_username }}</span>
-              GitHub
+              {{ site.github_username }}
+              <span class="github-label">GitHub</span>
             </a>
         {% endif %}
       </td>
-      <td>
+      <td class="member-website">
         {% if member.website %}
           <a href="{{ member.website }}">{{ member.website }}</a>
         {% endif %}
