@@ -38,7 +38,7 @@ Rake::Jekyll::GitDeployTask.new(:deploy) do |t|
     Rake.sh "bundle exec jekyll build --destination #{dest_dir}"
     HTML::Proofer.new(dest_dir, {
       :href_ignore => [
-        "#"
+        "#",
         "/tutorials"
       ],
       :alt_ignore => [
