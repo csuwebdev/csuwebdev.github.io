@@ -1,0 +1,5 @@
+title: Ruby
+tutorials:
+- title: Ruby on Rails Guides
+  description: The official Ruby on Rails guides are a great place to start and a great reference.
+  url: http://guides.rubyonrails.org/

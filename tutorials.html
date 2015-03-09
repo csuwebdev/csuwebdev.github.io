@@ -1,0 +1,21 @@
+---
+layout: tutorial
+title: Tutorials
+permalink: /tutorials/
+---
+
+<div class="tutorials">
+  {% for category_hash in site.data.tutorials %}
+    {% for category in category_hash %}
+
+        <h1>{{ category.title }}</h1>
+        {% for tutorial in category.tutorials %}
+          <h2>
+            <a href="{{ tutorial.url }}">{{ tutorial.title }}</a>
+          </h2>
+          <span class="description">{{ tutorial.description }}</span>
+        {% endfor %}
+
+    {% endfor %}
+  {% endfor %}
+</div>

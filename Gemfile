@@ -5,6 +5,8 @@ gem 'jekyll'
 gem 'jekyll-assets'
 gem 'uglifier'
 
+gem 'nokogiri'
+
 gem 'bootstrap-sass'
 
 gem 'rake'
