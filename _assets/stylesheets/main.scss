@@ -25,7 +25,7 @@ $secondary-color-2:       #99C542;
 $secondary-color-2-light: lighten($secondary-color-2, 30%);
 $secondary-color-2-dark:  darken($secondary-color-2, 10%);
 
-$on-palm:          685px;
+$on-palm:          756px;
 $on-laptop:        800px;
 
 // Using media queries with like this:
@@ -43,7 +43,6 @@ $on-laptop:        800px;
 
 @import
   "bootstrap",
-  "font-awesome",
   "fullcalendar",
   "base",
   "layout",

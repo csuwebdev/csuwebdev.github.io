@@ -8,7 +8,6 @@ gem 'uglifier'
 gem 'nokogiri'
 
 gem 'bootstrap-sass'
-gem 'font-awesome-sass'
 
 gem 'rake'
 gem 'rake-jekyll'

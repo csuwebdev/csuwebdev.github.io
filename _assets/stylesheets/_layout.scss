@@ -27,8 +27,8 @@
   }
 }
 .site-nav {
-  float: left;
-  margin-top: 10px;
+  float: right;
+  margin-top: 90px;
   line-height: 56px;
   .menu-icon {
     display: none;
@@ -44,6 +44,7 @@
   }
 
   @include media-query($on-palm) {
+    margin-top: 0;
     position: absolute;
     top: 15px;
     right: 30px;
