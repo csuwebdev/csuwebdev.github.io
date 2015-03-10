@@ -28,6 +28,7 @@
   @include media-query($on-palm) {
     font-size: 26px;
     line-height: 38px;
+    width: 270px;
   }
 }
 .site-nav {
