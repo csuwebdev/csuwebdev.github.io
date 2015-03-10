@@ -29,7 +29,11 @@ If you plan on contributing more than once and want to keep your fork up to date
 For information about the Markdown syntax, refer to [this](http://kramdown.gettalong.org/syntax.html).
 
 ### Running the site locally
+
+You will need Ruby and Node.JS installed. On Windows, you should download Ruby 2.1.5 from [here](http://rubyinstaller.org/), and then download and install the development kit. On Windows, you need the wdm gem, which won't work on Ruby 2.2.0. Once you've installed Ruby and Node.JS, type the following at the command line.
+
 ~~~
+$ bundle
 $ jekyll serve
 ~~~
 
