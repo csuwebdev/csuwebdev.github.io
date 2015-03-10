@@ -28,7 +28,7 @@ Mark it on your calendars. This is a good one meant for those who want to build 
 [Up and Running with Angular JS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html) - If you wonder what all the loud noise about angularJS is. Well maybe here is a good place to start!
 
 ## Design video of the week
-[Responsive single page layouts with bootstrap](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
+[Responsive single page layouts with bootstrap](http://www.lynda.com/Bootstrap-tutorials/Bootstrap-Layouts-Responsive-Single-Page-Design/186538-2.html)
 
 Don't forget to give Jayd your 10$ for membership if you haven't!
 

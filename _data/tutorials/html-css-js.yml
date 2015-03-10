@@ -7,3 +7,11 @@ tutorials:
   - title: w3schools.com
     description: This site has a lot of guides on HTML, CSS, and JS as well. It's another good place for beginners to start, and a good reference if you can't remember how something works.
     url: http://www.w3schools.com/
+
+  - title: Responsive Single Page Layouts with Boostrap
+    description: Bootstrap is a CSS framework that includes many classes for giving a website its layout and style. Wth Bootstrap, you can very quickly build a good looking layout.
+    url: http://www.lynda.com/Bootstrap-tutorials/Bootstrap-Layouts-Responsive-Single-Page-Design/186538-2.html
+
+  - title: Up and Running with AngularJS
+    description: Get a fresh look at AngularJS, a "superheroic" framework for building single-page web applications fast. Ray Villalobos shows you how to understand the practical uses of AngularJS with a directory search project—a traditional type of web app you can add to your existing sites.
+    url: http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html
