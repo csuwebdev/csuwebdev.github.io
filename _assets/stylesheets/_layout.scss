@@ -114,6 +114,14 @@
 .footer-col {
   @extend .col-md-4;
 }
+#signup-button-icon {
+  @extend .glyphicon, .glyphicon-envelope;
+  color: $grey-color;
+}
+/**
+* Signup modal
+*/
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 
 /**
  * Page content

@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Become a better web developer, network with others, build teamwork.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://csuwebdev.com" # the base hostname & protocol for your site
+github_username: csuwebdev
 
 # Build settings
 markdown: kramdown
