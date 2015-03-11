@@ -2,7 +2,7 @@
 layout: post
 title: Build a portfolio site. For Free. On Friday
 published: true
-categories: blog
+categories: events
 ---
 
 ## We will be using Jekyll, GitHub pages, and a free domain!
