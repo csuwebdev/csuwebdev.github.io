@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: event
 title: Build a portfolio site. For Free. On Friday
+calendar-link: https://www.google.com/calendar/event?action=TEMPLATE&tmeid=aDhtc3V2c3UxMGtyZmsxYXE3YzBwazJiZDggcmE1Njk1b2w1anRyMWhkYWlvMTg1NWpsbThAZw&tmsrc=ra5695ol5jtr1hdaio1855jlm8%40group.calendar.google.com
 published: true
 categories: events
 ---
