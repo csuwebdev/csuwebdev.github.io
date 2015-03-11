@@ -6,9 +6,46 @@
 </description>
     <link>http://csuwebdev.com/</link>
     <atom:link href="http://csuwebdev.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Mar 2015 06:33:35 +0000</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2015 06:33:35 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2015 21:26:37 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2015 21:26:37 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Build a portfolio site. For Free. On Friday</title>
+        <description>&lt;h2 id=&quot;we-will-be-using-jekyll-github-pages-and-a-free-domain&quot;&gt;We will be using Jekyll, GitHub pages, and a free domain!&lt;/h2&gt;
+
+&lt;p&gt;On Friday 12-1pm we will be having our regularly scheduled meeting in Tehama 226. This is the perfect chance for you to build the beginnings of a portfolio website for free. With continuous integration, and much more.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you are going to show up, please have Ruby installed!&lt;/strong&gt; A tutorial for how to install ruby can be found &lt;a href=&quot;https://www.ruby-lang.org/en/documentation/installation/&quot;&gt;here&lt;/a&gt; (for mac and linux users). &lt;strong&gt;If you are on Windows, it must be version 2.1.5 or earlier&lt;/strong&gt; and you’ll need to install the Ruby Devkit. You can follow the first page of &lt;a href=&quot;http://jekyll-windows.juthilo.com/1-ruby-and-devkit/&quot;&gt;this tutorial&lt;/a&gt; on Windows.&lt;/p&gt;
+
+&lt;p&gt;You should also install &lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.JS&lt;/a&gt; on all platforms.&lt;/p&gt;
+
+&lt;p&gt;If you’d like to get a free domain set up during the event, sign up for the &lt;a href=&quot;https://education.github.com/pack&quot;&gt;GitHub Student Developer Pack&lt;/a&gt;. You’ll be able to get a free .me domain for one year from Namecheap.com.&lt;/p&gt;
+
+&lt;h2 id=&quot;if-you-couldnt-make-it-to-the-modern-web-tools-event-i-made-a-5-minute-video-showing-off-livereload-how-could-you-live-without-it&quot;&gt;If you couldn’t make it to the Modern Web Tools event, I made a 5 minute video showing off livereload. How could you live without it?&lt;/h2&gt;
+
+&lt;p&gt;So I know not everyone wants to sacrifice part of their Saturday, so I am making an effort to record the “must knows” from the events for you to check out retroactively. &lt;a href=&quot;https://www.screenr.com/bhbN&quot;&gt;Here is the recording for how to use gulp with livereload&lt;/a&gt;. Highly worth it, check it out. The text tutorial can be &lt;a href=&quot;http://travismaynard.com/writing/getting-started-with-gulp&quot;&gt;found here&lt;/a&gt;, however it doesn’t include livereload so you’ll want to use my gulpfile and package.json to ensure you get all the proper packages.&lt;/p&gt;
+
+&lt;h2 id=&quot;if-you-want-to-add-your-name-to-the-club-website-member-list&quot;&gt;If you want to add your name to the club website member list&lt;/h2&gt;
+
+&lt;p&gt;If you  weren’t able to make it last Friday, you probably haven’t added your name to the &lt;a href=&quot;http://csuwebdev.com/members/&quot;&gt;club website members list&lt;/a&gt;. I created a &lt;a href=&quot;https://www.screenr.com/SyYN&quot;&gt;screencast&lt;/a&gt; on how to do this as well, and it shouldn’t take longer than 5 - 10 minutes to follow along.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-free-stuff-from-jetbrains-you-say-crazy&quot;&gt;More Free Stuff? From Jetbrains you say? Crazy!&lt;/h2&gt;
+
+&lt;p&gt;So Jetbrains creates some sweet IDE’s. Get this though, they are free to students. We will likely have an event dedicated to getting the most out of your Jetbrains IDE, but for now you should at least &lt;a href=&quot;https://www.jetbrains.com/student/&quot;&gt;check it out&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;use-the-site-and-the-calendar&quot;&gt;Use the Site and the Calendar!&lt;/h2&gt;
+
+&lt;p&gt;Lastly, I’d like to encourage people to use the regularly updated &lt;a href=&quot;http://csuwebdev.com/&quot;&gt;website&lt;/a&gt;, the &lt;a href=&quot;http://csuwebdev.com/calendar/&quot;&gt;calendar&lt;/a&gt;, and if you are interested in the club inner workings, you can check out our team collaboration page &lt;a href=&quot;https://trello.com/webdesigndevelopmentclub&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Mar 2015 00:00:00 +0000</pubDate>
+        <link>http://csuwebdev.com/blog/2015/03/11/build-a-portfolio-site-for-free-.html</link>
+        <guid isPermaLink="true">http://csuwebdev.com/blog/2015/03/11/build-a-portfolio-site-for-free-.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Setting up an Efficient Workflow</title>
