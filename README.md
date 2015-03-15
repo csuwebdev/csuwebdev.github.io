@@ -30,7 +30,7 @@ For information about the Markdown syntax, refer to [this](http://kramdown.getta
 
 ### Running the site locally
 
-You will need Ruby and Node.JS installed. On Windows, you should download Ruby 2.1.5 from [here](http://rubyinstaller.org/), and then download and install the development kit. On Windows, you need the wdm gem, which won't work on Ruby 2.2.0. Once you've installed Ruby and Node.JS, type the following at the command line.
+You will need Ruby installed. Node.js is recommended but not required. On Windows, you should download Ruby 2.1.5 from [here](http://rubyinstaller.org/), and then download and install the development kit. On Windows, you need the wdm gem, which won't work on Ruby 2.2.0. Once you've installed Ruby, type the following at the command line.
 
 ~~~
 $ gem install bundler
