@@ -18,6 +18,7 @@ source 'http://rails-assets.org' do
     gem 'rails-assets-jquery'
     gem 'rails-assets-moment'
     gem 'rails-assets-fullcalendar'
+    gem 'rails-assets-bootstrap'
   end
 end
 
