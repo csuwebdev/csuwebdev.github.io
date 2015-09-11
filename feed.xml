@@ -6,9 +6,39 @@
 </description>
     <link>http://csuwebdev.com/</link>
     <atom:link href="http://csuwebdev.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Sep 2015 06:09:48 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2015 06:09:48 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2015 06:27:06 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2015 06:27:06 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Job tips</title>
+        <description>&lt;h2 id=&quot;how-to-get-a-job&quot;&gt;How to get a job&lt;/h2&gt;
+
+&lt;p&gt;On Friday at 4pm in OCNL251 we will meet with the ACM club to discuss best practices for getting a job.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+        <link>http://csuwebdev.com/events/2015/09/11/job-tips.html</link>
+        <guid isPermaLink="true">http://csuwebdev.com/events/2015/09/11/job-tips.html</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Angular Intro</title>
+        <description>&lt;h2 id=&quot;how-to-use-angular-js&quot;&gt;How to use Angular JS&lt;/h2&gt;
+
+&lt;p&gt;On Friday 10-11am in OCNL239 we will be having a meeting specifically to go over how to use AngularJS, and the purpose. This is the perfect chance for you to build the beginnings of a portfolio website for free.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+        <link>http://csuwebdev.com/events/2015/09/11/angular-intro.html</link>
+        <guid isPermaLink="true">http://csuwebdev.com/events/2015/09/11/angular-intro.html</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>Javascript Libraries and Web Technologies</title>
