@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Javascript Libraries and Web Technologies
+layout: event
+title: Angular Intro
+slideshow-link: https://docs.google.com/presentation/d/1G_Wfa8g1fdZLW7N-IFny33msBVi4V63E5_YAeZ2zB9U/edit?usp=sharing
 published: true
-categories: meetings
+categories: events
 ---
 
-{::options parse_block_html="true" /}
-<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=ZnE1c3ZsaG1jc2dtcGxyYzRnYmVzaTFjYzQgcmE1Njk1b2w1anRyMWhkYWlvMTg1NWpsbThAZw&tmsrc=ra5695ol5jtr1hdaio1855jlm8%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+## How to use Angular JS
 
-We will talk about Angular, Node, Express / Sails, Meteor, WebGL, ThreeJS, Canvas, AmmoJS, VoxelJS, Node Webkit, And Phonegap!
-[Slideshow](https://docs.google.com/presentation/d/13c6_kR0_rcJqn8r8BWavt_37CHwjuRnH8W-_bWaXUuI/edit?usp=sharing)
+On Friday 10-11am we will be having a meeting specifically to go over how to use AngularJS, and the purpose. This is the perfect chance for you to build the beginnings of a portfolio website for free.
